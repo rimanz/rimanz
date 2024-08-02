@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is Riman. About a deaced before I had an interest in coding. Not a serious one. I just wanted to try a bit as I was younger and like other other younger kids I had enough time and energy for a side hustle. I tried coding for couple of years going nowhere. And then I left. 
+This is Riman. About a deaced before I had an interest in coding. Not a serious one though. I just wanted to try a bit as I was younger and like other younger kids I had enough time and energy for a side hustle. I tried coding for couple of years going nowhere. And then I left. 
 
-Almost after seven years later, I realized that, learning to code was one of the few great things my life encountered yet. That's why I'm back again.
+Almost after an half decade later, I realized that, learning to code was one of the few great things my life encountered yet. That's why I decided to come back to give it a second try again.
 
 --Riman Das.
 
