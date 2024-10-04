@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+------
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rimanz)](https://git.io/streak-stats)
+------
+
 <img src="https://komarev.com/ghpvc/?username=rimanz&style=flat-square&color=blue" alt=""/>
