@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Riman. About a deaced before I had an interest in coding. Not a serious one though. I just wanted to try a bit as I was younger and like other younger kids I had enough time and energy for a side hustle. I tried coding for couple of years going nowhere. And then I left. 
+This is Riman. Almost about a deaced before I had an interest in coding (not a serious one though). I just wanted to try a bit as I was younger and like other younger kids I had enough time and energy for a side hustle. I tried coding for few years going nowhere. And then... I left! 
 
 Almost after an half decade later, now I'm realizing that, learning to code was one of the few great things in my life. Though I wasn't serious about the end goal, I used to love the process. That's why I've decided to come back again giving it another try. This time in a serious way.
 
